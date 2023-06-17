@@ -1,12 +1,11 @@
-# Data Analysis of Trajectory DataThis repository contains scripts for the analysis of trajectory data. It provides functionalities to download, clean, fit curves, and analyze trajectory data, and generate various plots for visualization.
+# Data Analysis of Trajectory Data
+
+This repository contains scripts for the analysis of trajectory data. It provides functionalities to download, clean, fit curves, and analyze trajectory data, and generate various plots for visualization.
 
 ## Repository Structure
 
 The repository has the following structure:
 
-- `Plots/`: Directory to store generated plots.
-    - `2D_Kernel_Density.png`: 2D kernel density plot showing the distribution of radius vs velocity, pitch vs velocity, and pitch vs radius.
-    - `hist_parameters.png`: Histograms showing the distribution of velocity, pitch, radius, and omega values. ![Histograms](Plots/hist_parameters.png)
 - `README.md`: This file, providing an overview of the repository.
 - `curve_fitting/`: Directory containing the curve fitting module.
     - `__init__.py`: Initialization file for the curve fitting module.
