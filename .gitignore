@@ -1,0 +1,12 @@
+# Compiled Python files
+__pycache__/
+
+# Other files and directories to ignore
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.egg-info/
+data/
+
